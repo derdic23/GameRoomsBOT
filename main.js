@@ -45,4 +45,4 @@ bot.on('guildMemberAdd', member =>{
     channel.send(`Velkam to maj kendi šop, ${member}! Pročitaj pravila!`)
 });
 
-bot.login(procces.env.token);
+bot.login(procces.env.TOKEN);
