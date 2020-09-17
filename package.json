@@ -4,7 +4,7 @@
   "description": "Gamerooms Custom Bot",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
   "author": "ExceEL",
   "license": "ISC",
