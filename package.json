@@ -4,11 +4,14 @@
   "description": "Gamerooms Custom Bot",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node main.js"
   },
   "author": "ExceEL",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.3.1"
+    "discord.js": "^14.27.0"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
